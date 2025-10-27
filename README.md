@@ -1,6 +1,7 @@
 # Pandas notes for Data Analysts
 
 Instructor: Nikhil Kumar Mishra 
+
 It covers all the essential operations with simple examples to help you quickly recall concepts during practice or revision.
 
 
