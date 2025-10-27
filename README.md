@@ -187,4 +187,12 @@ with pd.ExcelWriter('report.xlsx') as writer:
 * DataCamp Pandas Cheat Sheet: [https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet](https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet)
 * Kaggle Pandas Tutorials: [https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
 
+
+
+
+
+
+
+
+
 Linkedin-https://www.linkedin.com/in/nikhilkumarmishra-
